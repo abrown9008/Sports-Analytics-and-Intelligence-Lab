@@ -64,40 +64,40 @@ SAIL's work spans methodological research, applied analytics, and real-world pro
 
 ### Athlete Health & Injury
 
-**Early Identification of Reinjury Risk Among National Basketball Association Players Using a Quality Monitoring Technique**
+**Early Identification of Reinjury Risk Among National Basketball Association Players Using a Quality Monitoring Technique**  
 A statistical process monitoring framework combining EWMA and CUSUM methods with individualized performance baselines to identify meaningful changes in player performance following injury.
 
 Submitted to: *Basketball Studies*
 
-**A Quality Monitoring Approach to Evaluating Reinjury Likelihood to Major League Baseball Pitchers**
+**A Quality Monitoring Approach to Evaluating Reinjury Likelihood to Major League Baseball Pitchers**  
 A statistical process monitoring framework combining process capability and CUSUM methods to identify deterioration in pitcher performance following injury.
 
 [Research in Sports Medicine (2026)](https://doi.org/10.1080/15438627.2026.2632610)
 
-**Predicting Multiple Injuries to Major League Baseball Pitchers**
+**Predicting Multiple Injuries to Major League Baseball Pitchers**  
 A logistic regression analysis examining factors associated with multiple injury events among MLB pitchers.
 
 [Research in Sports Medicine (2023)](https://doi.org/10.1080/15438627.2022.2052067)
 
 ### Process Monitoring Technique Development
 
-**A Nonparametric Adaptive EWMA Control Chart for Binary Monitoring of Multiple Stream Processes**
-*Faruk Muritala's Dissertation Topic*
+**A Nonparametric Adaptive EWMA Control Chart for Binary Monitoring of Multiple Stream Processes**  
+*Faruk Muritala's Dissertation Topic*  
 A new EWMA control chart for monitoring binary outcomes across multiple independent streams. It uses the exact time-varying variance to give accurate control limits from the very first sample, and it detects moderate shifts within a few samples across a range of data distributions. Multiple-stream binary data are common in sports, such as success/failure outcomes tracked across many players or teams at once.
 
-[arXiv Preprint (2026)](https://arxiv.org/abs/2604.12095)
+[arXiv Preprint (2026)](https://arxiv.org/abs/2604.12095)  
 [R Package `csbewma` (2026)](https://cran.r-project.org/web/packages/csbewma/index.html)
 
-**A Nonparametric CUSUM Control Chart for Multiple Stream Processes based on a Modified Extended Median Test**
+**A Nonparametric CUSUM Control Chart for Multiple Stream Processes based on a Modified Extended Median Test**  
 A distribution-free CUSUM chart for monitoring several identical processes at once, built on a modified extended median test. Simulations show it performs consistently with both normal and non-normal data and can outperform traditional parametric charts when normality can’t be assumed -- also a useful characteristic when monitoring sports performance data which can be highly skewed.
 
-[Communications in Statistics - Theory and Methods (2020)](https://doi.org/10.1080/03610926.2020.1738492)
+[Communications in Statistics - Theory and Methods (2020)](https://doi.org/10.1080/03610926.2020.1738492)  
 [R Package `nemtr` (2023)](https://cran.r-project.org/web/packages/nemtr/index.html)
 
-**The Alternative Distribution of the Nonparametric Extended Median Test CUSUM chart for Multiple Stream Processes**
+**The Alternative Distribution of the Nonparametric Extended Median Test CUSUM chart for Multiple Stream Processes**  
 Derives the alternative distribution of the NEMT-CUSUM plotting statistic so practitioners can estimate statistical power, the probability of detecting a shift in a subset of streams at a given point in time. This helps chart operators judge how effective the chart will be before a monitoring program begins.
 
-[Communications in Statistics - Theory and Methods (2020)](https://doi.org/10.1080/03610926.2020.1850792)
+[Communications in Statistics - Theory and Methods (2020)](https://doi.org/10.1080/03610926.2020.1850792)  
 
 ### Emerging Projects
 
