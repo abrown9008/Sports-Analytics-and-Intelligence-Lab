@@ -52,7 +52,7 @@ Our philosophy is simple:
       <img src="images/people/jafaar.jpg" width="140" alt="Student Name"><br>
     </td>
     <td valign="top">
-      <b>Jafaar Olasunkanmi Lawall</b> - <i>Ph.D. Graduate Research Assistant</i><br>
+      <b>Jafaar Olasunkanmi Lawal</b> - <i>Ph.D. Graduate Research Assistant</i><br>
        "I am enthusiastic about the intersection of statistics and natural language processing. I hope to contribute to sentiment analysis by combining statistical methods with modern text mining techniques. I am eager to learn and grow as a researcher in this space, and I am also excited to be here."
     </td>
   </tr>
