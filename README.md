@@ -26,6 +26,38 @@ Our philosophy is simple:
 
 ---
 
+---
+
+## 🧭 The Crew
+
+### Faculty
+
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="images/people/austin.jpg" width="140" alt="Dr. Austin R. Brown">
+    </td>
+    <td valign="top">
+      <b>Dr. Austin R. Brown</b> — <i>Principal Investigator</i><br>
+      "My research spans sports medicine and epidemiology, sports analytics, and educational research. The common thread is process evaluation and improvement. Whether monitoring an athlete’s return from injury or assessing a course redesign, I apply tools from statistical process monitoring to identify when something has meaningfully changed and why it matters."
+    </td>
+  </tr>
+</table>
+
+### Current Students
+
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="images/people/jafaar.jpg" width="140" alt="Student Name"><br>
+    </td>
+    <td valign="top">
+      <b>Jafaar Olasunkanmi Lawall</b> - <i>Ph.D. Graduate Research Assistant</i><br>
+       "I am enthusiastic about the intersection of statistics and natural language processing. I hope to contribute to sentiment analysis by combining statistical methods with modern text mining techniques. I am eager to learn and grow as a researcher in this space, and I am also excited to be here."
+    </td>
+  </tr>
+</table>
+
 ## 🏟️ Research & Projects
 
 SAIL's work spans methodological research, applied analytics, and real-world product development.
