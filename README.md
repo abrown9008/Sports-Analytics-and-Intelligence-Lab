@@ -1,9 +1,16 @@
-# ⚓ Sports Analytics and Intelligence Lab (SAIL)
+<p align="center">
+  <img src="images/logo/Stacked lockup@1x.png" alt="Sports Analytics and Intelligence Lab (SAIL) logo" width="700">
+</p>
 
-### Kennesaw State University
-#### PI: Dr. Austin R. Brown
+<h3 align="center">Kennesaw State University</h3>
 
-**Turning sports data into smarter decisions.**
+<p align="center">
+  <strong>PI: Dr. Austin R. Brown</strong>
+</p>
+
+<p align="center">
+  <em>Turning sports data into smarter decisions.</em>
+</p>
 
 The **Sports Analytics and Intelligence Lab (SAIL)** at Kennesaw State University brings together students and faculty to apply **statistics, data science, artificial intelligence, and decision science** to real-world problems in sports.
 
