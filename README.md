@@ -58,6 +58,18 @@ Our philosophy is simple:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="160" valign="top">
+      <img src="images/people/nathan.jpg" width="140" alt="Student Name"><br>
+    </td>
+    <td valign="top">
+      <b>Nathan Gruwell</b> - <i>M.S. Graduate Research Assistant</i><br>
+       "I am super excited to work on a project containing sport-related injuries, as it was what took me out of my own sport. Being able to create real solutions to prevent these kinds of injuries through the use of statistical methods is something I am passionate about."
+    </td>
+  </tr>
+</table>
+
 ## 🏟️ Research & Projects
 
 SAIL's work spans methodological research, applied analytics, and real-world product development.
