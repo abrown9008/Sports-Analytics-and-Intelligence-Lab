@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo/Stacked lockup@1x.png" alt="Sports Analytics and Intelligence Lab (SAIL) logo" width="700">
+  <img src="images/logo/Stacked lockup@1x.png" alt="Sports Analytics and Intelligence Lab (SAIL) logo" width="500">
 </p>
 
 <h3 align="center">Kennesaw State University</h3>
