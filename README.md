@@ -83,10 +83,10 @@ SAIL's work spans methodological research, applied analytics, and real-world pro
 
 ### Athlete Health & Injury
 
-**Early Identification of Reinjury Risk Among National Basketball Association Players Using a Quality Monitoring Technique**  
+**Early Identification of Subsequent Injury Risk Among National Basketball Association Players Using a Quality Monitoring Technique**  
 A statistical process monitoring framework combining EWMA and CUSUM methods with individualized performance baselines to identify meaningful changes in player performance following injury.
 
-Submitted to: *Basketball Studies*
+[Basketball Studies (2026)](https://doi.org/10.1016/j.basket.2026.100011)
 
 **A Quality Monitoring Approach to Evaluating Reinjury Likelihood to Major League Baseball Pitchers**  
 A statistical process monitoring framework combining process capability and CUSUM methods to identify deterioration in pitcher performance following injury.
