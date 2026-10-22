@@ -60,7 +60,7 @@ Our philosophy is simple:
     </td>
     <td valign="top">
       <b>Faruk Muritala</b> - <i>Ph.D. Graduate Research Assistant</i><br>
-       Faruk developed the CSB-EWMA chart, a nonparametric control-chart method for monitoring multiple binary data streams. Functionality for this package is maintained through the [`csbewma`](https://cran.r-project.org/web/packages/csbewma/index.html) R package on CRAN. He has also applied control-charting methods to sports injury risk, including the lab’s MLB pitcher reinjury and NBA subsequent-injury work.
+       Faruk developed the CSB-EWMA chart, a nonparametric control-chart method for monitoring multiple binary data streams. Functionality for this package is maintained through the [csbewma](https://cran.r-project.org/web/packages/csbewma/index.html) R package on CRAN. He has also applied control-charting methods to sports injury risk, including the lab’s MLB pitcher reinjury and NBA subsequent-injury work.
     </td>
   </tr>
 </table>
