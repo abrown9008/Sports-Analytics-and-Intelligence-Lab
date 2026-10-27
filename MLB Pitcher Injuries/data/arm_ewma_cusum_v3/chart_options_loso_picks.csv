@@ -1,0 +1,36 @@
+config,left_out,lambda_1,lambda_2
+velocity only,2021,0.55,
+velocity only,2022,0.65,
+velocity only,2023,0.35,
+velocity only,2024,0.35,
+velocity only,2025,0.35,
+CV only,2021,0.25,
+CV only,2022,0.25,
+CV only,2023,0.35,
+CV only,2024,0.15,
+CV only,2025,0.25,
+log CV only,2021,0.15,
+log CV only,2022,0.25,
+log CV only,2023,0.35,
+log CV only,2024,0.15,
+log CV only,2025,0.75,
+Option 1: velocity + CV,2021,0.35,0.15
+Option 1: velocity + CV,2022,0.35,0.05
+Option 1: velocity + CV,2023,0.35,0.05
+Option 1: velocity + CV,2024,0.35,0.05
+Option 1: velocity + CV,2025,0.35,0.05
+Option 1: velocity + log CV,2021,0.35,0.25
+Option 1: velocity + log CV,2022,0.35,0.15
+Option 1: velocity + log CV,2023,0.35,0.65
+Option 1: velocity + log CV,2024,0.35,0.15
+Option 1: velocity + log CV,2025,0.35,0.15
+"Option 2: max(velocity, CV)",2021,0.75,
+"Option 2: max(velocity, CV)",2022,0.25,
+"Option 2: max(velocity, CV)",2023,0.65,
+"Option 2: max(velocity, CV)",2024,0.45,
+"Option 2: max(velocity, CV)",2025,0.35,
+"Option 2: max(velocity, log CV)",2021,0.85,
+"Option 2: max(velocity, log CV)",2022,0.65,
+"Option 2: max(velocity, log CV)",2023,0.65,
+"Option 2: max(velocity, log CV)",2024,0.35,
+"Option 2: max(velocity, log CV)",2025,0.45,

@@ -1,0 +1,6 @@
+model,games,outcome_games,outcome_units,pitchers,parameters,outcome_games_per_parameter,converged
+1. hockey-stick,3584,178,79,302,7,25.428571428571427,True
+2. hockey-stick + above-baseline arm,3584,178,79,302,8,22.25,True
+3. velocity + CV,3584,178,79,302,8,22.25,True
+"4. lead time: velocity + CV, final game dropped",3521,115,69,298,8,14.375,True
+"5. lead time: velocity only, final game dropped",3521,115,69,298,7,16.428571428571427,True

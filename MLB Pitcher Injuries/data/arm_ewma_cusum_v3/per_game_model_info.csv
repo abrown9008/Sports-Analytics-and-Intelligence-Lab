@@ -1,0 +1,4 @@
+model,games,outcome_games,outcome_units,pitchers,parameters,outcome_games_per_parameter,converged
+primary (K = 3),3584,178,79,302,8,22.25,True
+"hazard (K = 1), 3 terms",3584,63,63,302,4,15.75,True
+CV in place of velocity (K = 3),3584,178,79,302,6,29.666666666666668,True

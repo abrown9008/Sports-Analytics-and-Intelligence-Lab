@@ -1,0 +1,5 @@
+chart,frontier_AUC
+cv|pooled,0.5496602547018176
+cv|per_fb,0.5385042779154058
+velo|pooled,0.5387963200678859
+velo|per_fb,0.5372553358479681

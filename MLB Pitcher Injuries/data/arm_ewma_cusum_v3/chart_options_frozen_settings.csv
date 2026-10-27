@@ -1,0 +1,8 @@
+config,kind,stat_1,stat_2,lambda_1,lambda_2,h_1,h_2,train_early_warning_hit_rate
+velocity only,single,velo,,0.65,,2.007740637720678,,0.14516129032258066
+CV only,single,cv,,0.15,,0.7574696667673957,,0.11290322580645161
+log CV only,single,logcv,,0.15,,0.7522834627635581,,0.0967741935483871
+Option 1: velocity + CV,two,velo,cv,0.35,0.05,2.029450154598949,0.5486896271159034,0.14516129032258066
+Option 1: velocity + log CV,two,velo,logcv,0.35,0.25,2.0277133978230197,1.1508206658034736,0.1532258064516129
+"Option 2: max(velocity, CV)",max,velo,cv,0.75,,2.316937689086695,,0.14516129032258066
+"Option 2: max(velocity, log CV)",max,velo,logcv,0.65,,2.0969049856327353,,0.14516129032258066

@@ -1,0 +1,17 @@
+chart,left_out,lambda,h
+cv|pooled,2021,0.85,1.0
+cv|pooled,2022,0.95,3.0
+cv|pooled,2023,0.75,0.5
+cv|pooled,2024,0.95,3.0
+cv|per_fb,2021,0.95,1.25
+cv|per_fb,2022,0.95,3.0
+cv|per_fb,2023,0.95,1.25
+cv|per_fb,2024,0.55,0.75
+velo|pooled,2021,0.45,2.25
+velo|pooled,2022,0.85,3.0
+velo|pooled,2023,0.85,3.0
+velo|pooled,2024,0.95,3.25
+velo|per_fb,2021,0.45,2.25
+velo|per_fb,2022,0.95,3.25
+velo|per_fb,2023,0.95,3.25
+velo|per_fb,2024,0.95,3.25
