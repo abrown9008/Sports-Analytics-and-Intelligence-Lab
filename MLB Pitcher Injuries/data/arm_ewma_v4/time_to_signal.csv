@@ -1,0 +1,69 @@
+chart,uid,appearances_before_IL,days_before_IL
+"1. Velocity, two-sided EWMA",134,33,89
+"1. Velocity, two-sided EWMA",160,1,1
+"1. Velocity, two-sided EWMA",185,8,26
+"1. Velocity, two-sided EWMA",192,11,68
+"1. Velocity, two-sided EWMA",201,1,1
+"1. Velocity, two-sided EWMA",203,1,1
+"1. Velocity, two-sided EWMA",226,1,1
+"1. Velocity, two-sided EWMA",262,3,14
+"1. Velocity, two-sided EWMA",275,2,6
+"1. Velocity, two-sided EWMA",290,6,32
+"1. Velocity, two-sided EWMA",297,1,1
+"1. Velocity, two-sided EWMA",309,2,9
+"1. Velocity, two-sided EWMA",339,7,36
+"1. Velocity, two-sided EWMA",356,24,70
+"1. Velocity, two-sided EWMA",370,11,33
+"1. Velocity, two-sided EWMA",373,10,36
+"1. Velocity, two-sided EWMA",377,4,18
+"1. Velocity, two-sided EWMA",452,2,12
+"1. Velocity, two-sided EWMA",512,2,9
+"1. Velocity, two-sided EWMA",515,5,25
+"1. Velocity, two-sided EWMA",578,1,2
+"1. Velocity, two-sided EWMA",686,35,126
+"1. Velocity, two-sided EWMA",692,2,10
+"1. Velocity, two-sided EWMA",693,4,21
+"1. Velocity, two-sided EWMA",697,38,136
+"1. Velocity, two-sided EWMA",701,1,1
+"2. log CV, upper-sided EWMA",134,28,78
+"2. log CV, upper-sided EWMA",192,10,59
+"2. log CV, upper-sided EWMA",201,1,1
+"2. log CV, upper-sided EWMA",262,7,37
+"2. log CV, upper-sided EWMA",268,4,9
+"2. log CV, upper-sided EWMA",282,14,39
+"2. log CV, upper-sided EWMA",340,6,30
+"2. log CV, upper-sided EWMA",370,12,36
+"2. log CV, upper-sided EWMA",395,6,30
+"2. log CV, upper-sided EWMA",476,3,15
+"2. log CV, upper-sided EWMA",512,2,9
+"2. log CV, upper-sided EWMA",515,3,14
+"2. log CV, upper-sided EWMA",610,2,7
+"2. log CV, upper-sided EWMA",612,3,12
+"2. log CV, upper-sided EWMA",675,14,81
+"3. Max-EWMA (velocity, log CV)",134,33,89
+"3. Max-EWMA (velocity, log CV)",160,1,1
+"3. Max-EWMA (velocity, log CV)",185,8,26
+"3. Max-EWMA (velocity, log CV)",192,12,74
+"3. Max-EWMA (velocity, log CV)",201,1,1
+"3. Max-EWMA (velocity, log CV)",203,1,1
+"3. Max-EWMA (velocity, log CV)",226,1,1
+"3. Max-EWMA (velocity, log CV)",262,4,19
+"3. Max-EWMA (velocity, log CV)",275,2,6
+"3. Max-EWMA (velocity, log CV)",282,13,37
+"3. Max-EWMA (velocity, log CV)",290,7,34
+"3. Max-EWMA (velocity, log CV)",297,1,1
+"3. Max-EWMA (velocity, log CV)",309,2,9
+"3. Max-EWMA (velocity, log CV)",339,8,41
+"3. Max-EWMA (velocity, log CV)",356,24,70
+"3. Max-EWMA (velocity, log CV)",370,12,36
+"3. Max-EWMA (velocity, log CV)",373,10,36
+"3. Max-EWMA (velocity, log CV)",377,4,18
+"3. Max-EWMA (velocity, log CV)",452,2,12
+"3. Max-EWMA (velocity, log CV)",512,2,9
+"3. Max-EWMA (velocity, log CV)",515,5,25
+"3. Max-EWMA (velocity, log CV)",578,1,2
+"3. Max-EWMA (velocity, log CV)",686,35,126
+"3. Max-EWMA (velocity, log CV)",692,2,10
+"3. Max-EWMA (velocity, log CV)",693,4,21
+"3. Max-EWMA (velocity, log CV)",697,38,136
+"3. Max-EWMA (velocity, log CV)",701,1,1
