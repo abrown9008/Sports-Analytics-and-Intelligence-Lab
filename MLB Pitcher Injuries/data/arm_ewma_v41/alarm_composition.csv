@@ -1,0 +1,7 @@
+chart,games,alarms,velocity low,velocity high,variability up
+"1. Velocity, two-sided EWMA",case games 2-3 before IL,13,11,2,0
+"1. Velocity, two-sided EWMA",case final games,15,12,3,0
+"1. Velocity, two-sided EWMA",control games,296,138,158,0
+"3. Max-EWMA (velocity, log CV)",case games 2-3 before IL,11,8,2,1
+"3. Max-EWMA (velocity, log CV)",case final games,13,11,2,0
+"3. Max-EWMA (velocity, log CV)",control games,319,146,147,26

@@ -1,0 +1,10 @@
+comparison,games,difference,lower95,upper95
+"3. Max-EWMA (velocity, log CV)  minus  1. Velocity, two-sided EWMA",case games 2-3 before IL,-0.010309278350515464,-0.03593200197543058,0.011777336701551774
+"3. Max-EWMA (velocity, log CV)  minus  1. Velocity, two-sided EWMA",case final games,-0.019230769230769232,-0.057398933630431324,0.013235451433461632
+"3. Max-EWMA (velocity, log CV)  minus  1. Velocity, two-sided EWMA",control games,0.003872705842734467,-0.0013874026407057606,0.010172226630709786
+"3. Max-EWMA (velocity, log CV)  minus  2. log CV, upper-sided EWMA",case games 2-3 before IL,-0.015463917525773196,-0.06536690433749258,0.03587501437277222
+"3. Max-EWMA (velocity, log CV)  minus  2. log CV, upper-sided EWMA",case final games,0.038461538461538464,-0.03261315039201711,0.11963731144631759
+"3. Max-EWMA (velocity, log CV)  minus  2. log CV, upper-sided EWMA",control games,-0.0010102710894089914,-0.025537720512603498,0.020629043727262725
+"1. Velocity, two-sided EWMA  minus  2. log CV, upper-sided EWMA",case games 2-3 before IL,-0.005154639175257732,-0.05406139835487662,0.04663819624352331
+"1. Velocity, two-sided EWMA  minus  2. log CV, upper-sided EWMA",case final games,0.057692307692307696,-0.01890643049672699,0.14545895851721094
+"1. Velocity, two-sided EWMA  minus  2. log CV, upper-sided EWMA",control games,-0.004882976932143459,-0.029758720606970594,0.016573809557058866

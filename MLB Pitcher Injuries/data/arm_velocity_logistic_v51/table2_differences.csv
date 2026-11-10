@@ -1,0 +1,5 @@
+Difference (post-return minus pre-injury),Subsequent arm IL: mean (SD),median,No subsequent arm IL: mean (SD),median ,Wilcoxon rank-sum p
+"Fastball velocity difference, mph",-0.261 (1.083),-0.285,-0.211 (0.911),-0.201,0.5944
+  mph lost,0.572 (0.700),0.285,0.480 (0.584),0.201,0.3968
+  mph gained,0.311 (0.569),0.000,0.268 (0.482),0.000,0.9307
+"Within-game CV difference, % points",0.022 (0.186),-0.000,-0.017 (0.191),-0.021,0.0792

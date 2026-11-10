@@ -1,0 +1,15 @@
+,Subsequent arm IL,No subsequent arm IL,All
+"Pitcher-seasons, n",102,434,536
+"Starters, n (%)",50 (49%),221 (51%),271 (51%)
+"IL era 15-day DL (2015-16), n (%)",5 (5%),29 (7%),34 (6%)
+"IL era 10-day DL/IL (2017-21), n (%)",42 (41%),185 (43%),227 (42%)
+"IL era 15-day IL, pitchers (2022-), n (%)",55 (54%),220 (51%),275 (51%)
+"Age at return, years, mean (SD)",28.8 (3.4),29.4 (3.3),29.3 (3.3)
+"Initial injury elbow/forearm, n (%)",51 (50%),188 (43%),239 (45%)
+"Days on the IL, median [IQR]",34 [19–62],36 [20–63],36 [20–63]
+"Pre-injury games, median [IQR]",20 [14–30],24 [14–30],23 [14–30]
+"Pre-injury fastball velocity, mph, mean (SD)",94.18 (2.59),93.92 (2.35),93.97 (2.40)
+"Post-return fastball velocity, mph, mean (SD)",93.92 (2.76),93.71 (2.48),93.75 (2.54)
+"Pre-injury within-game CV, %, mean (SD)",0.983 (0.261),0.988 (0.256),0.987 (0.256)
+"Post-return within-game CV, %, mean (SD)",1.005 (0.310),0.971 (0.297),0.978 (0.300)
+"Days from return to appearance 5, median [IQR]",22 [13–24],22 [14–25],22 [14–25]
