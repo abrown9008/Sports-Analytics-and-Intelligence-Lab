@@ -1,0 +1,7 @@
+role,velocity change,pitcher-seasons,subsequent arm IL,"MLB apps after landmark, median","apps per 30 days, median","gap >= 20 days, %","option/DFA/outright/release, %"
+reliever,lost > 0.5 mph,91,9 (10%),10.0,8.3,13%,no data
+reliever,stable,106,25 (24%),12.0,8.7,10%,no data
+reliever,gained > 0.5 mph,43,6 (14%),11.0,8.9,7%,no data
+starter,lost > 0.5 mph,99,21 (21%),6.0,4.7,6%,no data
+starter,stable,105,13 (12%),9.0,4.8,9%,no data
+starter,gained > 0.5 mph,73,17 (23%),9.0,4.9,3%,no data
