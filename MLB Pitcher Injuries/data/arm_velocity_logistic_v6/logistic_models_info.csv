@@ -1,0 +1,4 @@
+model,pitcher-seasons,events,pitchers,parameters,events per parameter,in-sample AUC,converged
+Primary (adjusted),517,91,401,8,11.4,0.6190218232471754,True
+Unadjusted,517,91,401,4,22.8,0.5356497962131765,True
+2022-paper form,517,91,401,3,30.3,0.521152556363824,True

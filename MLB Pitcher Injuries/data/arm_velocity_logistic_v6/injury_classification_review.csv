@@ -1,0 +1,1155 @@
+is_arm,is_elbow,Injury,IL rows
+True,True,Tommy John surgery,309
+True,True,Elbow inflammation,158
+True,True,Strained forearm,76
+True,True,Right elbow inflammation,35
+True,True,Elbow discomfort,34
+True,True,Sprained elbow,33
+True,True,Right forearm strain,29
+True,True,Elbow surgery (internal brace),26
+True,True,Forearm inflammation,26
+True,True,Strained elbow,26
+True,True,Right elbow strain,20
+True,True,Strained elbow flexor,20
+True,True,Tommy John surgery (internal brace),19
+True,True,Flexor tendon surgery,18
+True,True,Forearm tightness,18
+True,True,Elbow surgery,16
+True,True,Recovering from Tommy John surgery,15
+True,True,Left elbow inflammation,14
+True,True,Strained flexor,14
+True,True,Right elbow soreness,11
+True,True,Strained forearm flexor,11
+True,True,Left forearm strain,10
+True,True,Right elbow impingement,10
+True,True,Arthroscopic elbow surgery,9
+True,True,Forearm tendinitis,9
+True,True,Recovery from Tommy John surgery,9
+True,True,Elbow contusion,8
+True,True,Elbow tendinitis,8
+True,True,Right elbow sprain,8
+True,True,Right forearm tightness,8
+True,True,Left elbow strain,7
+True,True,Elbow neuritis,6
+True,True,Forearm discomfort,6
+True,True,Right elbow surgery,6
+True,True,Strained flexor tendon,6
+True,True,Elbow impingement,5
+True,True,Elbow soreness,5
+True,True,Elbow surgery (UCL),5
+True,True,Forearm contusion,5
+True,True,Left elbow soreness,5
+True,True,Right elbow discomfort,5
+True,True,Right flexor strain,5
+True,True,Elbow effusion,4
+True,True,Left elbow sprain,4
+True,True,Ulnar nerve irritation,4
+True,True,Elbow stress reaction,3
+True,True,Elbow surgery (flexor tendon/bone spur),3
+True,True,Elbow surgery (stress fracture),3
+True,True,Elbow tightness,3
+True,True,Left forearm tightness,3
+True,True,Recovering from March 2016 Tommy John surgery,3
+True,True,Right UCL injury,3
+True,True,Right elbow UCL injury,3
+True,True,Right elbow UCL sprain,3
+True,True,Right elbow bone spur,3
+True,True,Right forearm flexor strain,3
+True,True,Right forearm inflammation,3
+True,True,Right hip flexor strain,3
+True,True,Strained right forearm,3
+True,True,Arthroscopic elbow surgery (bone spurs),2
+True,True,Blood clot removal surgery (right elbow),2
+True,True,Elbow bone bruise,2
+True,True,Elbow debridement surgery,2
+True,True,Elbow nerve irritation,2
+True,True,Elbow surgery (UCL revision repair),2
+True,True,Elbow surgery (bone chip removal),2
+True,True,Elbow surgery (bone spur removal),2
+True,True,Elbow surgery (fracture),2
+True,True,Elbow surgery (removal of loose bodies),2
+True,True,Elbow ulnar neuritis,2
+True,True,Flexor strain in his right elbow,2
+True,True,Forearm inflammtion,2
+True,True,Forearm nerve inflammation,2
+True,True,Forearm soreness,2
+True,True,Fractured elbow,2
+True,True,Hyperextended right elbow,2
+True,True,Left UCL sprain,2
+True,True,Left elbow injury,2
+True,True,Left elbow tendinitis,2
+True,True,Left flexor strain,2
+True,True,Partially torn elbow ligament,2
+True,True,Recovering from March 2015 Tommy John surgery,2
+True,True,Recovering from May 2015 Tommy John surgery,2
+True,True,Recovering from September 2015 Tommy John surgery,2
+True,True,Recovery from right elbow surgery,2
+True,True,Right Flexor Strain,2
+True,True,Right elbow contusion,2
+True,True,Right elbow flexor strain,2
+True,True,Right elbow posterior impingement,2
+True,True,Right pronator muscle strain,2
+True,True,Strained hip flexor,2
+True,True,Strained right elbow,2
+True,True,Tommy John surgery/ flexor tendon surgery,2
+True,True,Torn right ulnar collateral ligament,2
+True,True,April 2016 Tommy John surgery,1
+True,True,Arthoscopic elbow surgery,1
+True,True,Arthroscopic elbow surgery (bone chip removal),1
+True,True,Bone chip in elbow,1
+True,True,Bone chips in right elbow,1
+True,True,Bone spur in elbow,1
+True,True,Bone spur in right elbow,1
+True,True,Bone spurs in right elbow,1
+True,True,Bruised right forearm,1
+True,True,Continued rehab from offseason right elbow debridement,1
+True,True,Elbow discomfort (lateral epicondylitis),1
+True,True,Elbow discomfort (median nerve entrapment),1
+True,True,Elbow discomfort (ulnar nerve entrapment),1
+True,True,Elbow discomfort (ulnar neuritis),1
+True,True,Elbow fatigue,1
+True,True,Elbow impingement syndrome,1
+True,True,Elbow inflammation (compressed nerve),1
+True,True,Elbow inflammation (ulnar nerve),1
+True,True,Elbow laceration,1
+True,True,Elbow loose bodies,1
+True,True,Elbow nerve inflammation,1
+True,True,Elbow soreness / Strained hamstring,1
+True,True,Elbow strain,1
+True,True,Elbow surgery (UCL hybrid reconstruction),1
+True,True,Elbow surgery (UCL repair),1
+True,True,Elbow surgery (UCL revision),1
+True,True,Elbow surgery (UCL/flexor tendon repair),1
+True,True,Elbow surgery (UCL/flexor tendon),1
+True,True,Elbow surgery (bone spur),1
+True,True,Elbow surgery (flexor tendon),1
+True,True,Elbow surgery (fractured olecranon),1
+True,True,Elbow surgery (hairline fracture),1
+True,True,Elbow surgery (internal brace procedure),1
+True,True,Elbow surgery (internal brace/flexor tendon repair,1
+True,True,Elbow surgery (loose body removal),1
+True,True,Elbow surgery (loose body),1
+True,True,Elbow surgery (removal of loose body),1
+True,True,Elbow surgery (ulnar nerve transposition),1
+True,True,Elbow surgery (ulnar nerve transpositon),1
+True,True,Elbow surgery (ulnar neuritis),1
+True,True,Elbow valgus extension overload,1
+True,True,Elbow/Flexor tendon surgery,1
+True,True,Elbow/back soreness,1
+True,True,Flexor bundle strain,1
+True,True,Flexor inflammation,1
+True,True,Flexor pronator strain in left arm,1
+True,True,Flexor tendon surgery/Shoulder soreness,1
+True,True,Flexor tendon/Tommy John revision surgery,1
+True,True,Forearm contusion (right),1
+True,True,Forearm extensor inflammation,1
+True,True,Forearm fatigue,1
+True,True,Forearm flexor tendinits,1
+True,True,Forearm radial nerve inflammation,1
+True,True,Forearm sugery (nerve decompression),1
+True,True,Forearm surgery (Anterior interosseous nerve relea,1
+True,True,Forearm tendinitis/ankle inflammation,1
+True,True,Forearm tendonitis,1
+True,True,Fractured elbow (right),1
+True,True,Hairline stress fracture (forearm),1
+True,True,High grade UCL tear in right elbow,1
+True,True,Irritation of ulnar nerve in left elbow,1
+True,True,Left UCL tear,1
+True,True,Left arm flexor strain,1
+True,True,Left elbow,1
+True,True,Left elbow UCL injury,1
+True,True,Left elbow contusion,1
+True,True,Left elbow flexor strain,1
+True,True,Left elbow impingement,1
+True,True,Left elbow impingement/valgus extension overload,1
+True,True,Left elbow neuritis,1
+True,True,Left elbow surgery,1
+True,True,Left elbow tendonitis,1
+True,True,Left elbow tightness,1
+True,True,Left flexor muscle strain,1
+True,True,Left forearm contusion,1
+True,True,Left forearm flexor strain,1
+True,True,Left forearm fracture,1
+True,True,Left forearm inflammation,1
+True,True,Left forearm tendinitis,1
+True,True,Left hip flexor strain,1
+True,True,Left shoulder and elbow inflammation,1
+True,True,Left ulnar neuritis,1
+True,True,Loose bodies in left elbow,1
+True,True,Loose bodies in right elbow,1
+True,True,Loose body in the right elbow,1
+True,True,Mild right forearm strain,1
+True,True,Mild right pronator strain,1
+True,True,Olecranon stress fracture (right elbow),1
+True,True,Partial tear of right UCL,1
+True,True,Posterior inflammation of right elbow,1
+True,True,"Radial stress fracture, forearm)",1
+True,True,Recovering May 2015 Tommy John surgery,1
+True,True,Recovering from April 2015 Tommy John surger,1
+True,True,Recovering from April 2015 Tommy John surgery,1
+True,True,Recovering from August 2015 Tommy John surgery,1
+True,True,Recovering from August 2016 Tommy John Surgery,1
+True,True,Recovering from June 2015 Tommy John surgery,1
+True,True,Recovering from March 2016 right elbow surgery,1
+True,True,Recovering from November 2015 Tommy John surgery,1
+True,True,Recovering from October 2015 Tommy John surgery,1
+True,True,Recovering from Tommy John Surgery,1
+True,True,Right UCL sprain,1
+True,True,Right UCL surgery rehab,1
+True,True,Right bicep/elbow pain,1
+True,True,Right elbow,1
+True,True,Right elbow UCL construction,1
+True,True,Right elbow UCL damage,1
+True,True,"Right elbow UCL damage,",1
+True,True,Right elbow UCL reconstruction surgery,1
+True,True,Right elbow UCL surgery recovery,1
+True,True,Right elbow capsule strain,1
+True,True,Right elbow effusion,1
+True,True,Right elbow extensor strain,1
+True,True,Right elbow flexor bundle strain,1
+True,True,Right elbow flexor inflammation,1
+True,True,Right elbow fracture,1
+True,True,Right elbow inflamation,1
+True,True,Right elbow injury,1
+True,True,Right elbow lateral epicondylitis,1
+True,True,Right elbow nerve impingement,1
+True,True,Right elbow nerve irritation,1
+True,True,Right elbow neuritis,1
+True,True,Right elbow posterior inflammation,1
+True,True,Right elbow tendon injury,1
+True,True,Right elbow tendonitis,1
+True,True,Right elbow ulnar neuritis,1
+True,True,Right flexor bundle strain,1
+True,True,Right forearm contusion,1
+True,True,Right forearm extensor strain,1
+True,True,Right forearm irritation,1
+True,True,Right forearm tendon injury,1
+True,True,Right lateral elbow inflammation,1
+True,True,Right middle finger flexor tendinitis,1
+True,True,Right posterior elbow impingement,1
+True,True,Right posterior elbow irritation,1
+True,True,Right pronator strain,1
+True,True,Right ulnar collateral ligament sprain,1
+True,True,Right ulnar collateral ligament strain,1
+True,True,Right ulnar nerve neuritis,1
+True,True,Right ulnar nerve palsy,1
+True,True,Right ulnar neuritis,1
+True,True,Sore left elbow,1
+True,True,Sprained left elbow,1
+True,True,Sprained right elbow,1
+True,True,Strained elbow (flexor),1
+True,True,Strained left forearm,1
+True,True,Stress reaction -- elbow,1
+True,True,Stress reaction in elbow,1
+True,True,Tommy John revision surgery,1
+True,True,Tommy John surgery (revision),1
+True,True,Torn UCL in left elbow,1
+True,True,Torn UCL in right elbow,1
+True,True,Torn flexor tendon,1
+True,True,Torn flexor tendon in right forearm,1
+True,True,UCL revision surgery (internal brace),1
+True,True,UCL sprain,1
+True,True,Ulnar collateral ligament sprain in right elbow,1
+True,True,Ulnar nerve inflammation,1
+True,True,Ulnar nerve injury,1
+True,True,Ulnar nerve transposition surgery,1
+True,True,Ulnar neuritis,1
+True,True,Ulnar neuritis (elbow),1
+True,True,Ulnar neuritis in his right elbow,1
+True,True,Wrist flexor tendinitis,1
+True,True,fractured right medial epicondyle,1
+True,True,left pronator strain,1
+True,True,recovery from Tommy John surgery,1
+True,True,right elbow flexor tendon strain,1
+True,True,right elbow soreness,1
+True,True,right elbow strain,1
+True,True,strained right elbow,1
+True,False,Shoulder inflammation,174
+True,False,Strained shoulder,119
+True,False,Shoulder impingement,91
+True,False,Strained lat,67
+True,False,Right shoulder inflammation,60
+True,False,Right shoulder strain,41
+True,False,Shoulder surgery,32
+True,False,Shoulder discomfort,28
+True,False,Right shoulder impingement,21
+True,False,Shoulder fatigue,21
+True,False,Left shoulder inflammation,18
+True,False,Biceps tendinitis,17
+True,False,Strained triceps,16
+True,False,Strained shoulder (rotator cuff),14
+True,False,Strained shoulder (teres major),14
+True,False,Thoracic outlet syndrome surgery,13
+True,False,Left shoulder strain,12
+True,False,Right lat strain,12
+True,False,Shoulder soreness,12
+True,False,Strained biceps,12
+True,False,Arthroscopic shoulder surgery,11
+True,False,Shoulder tendinitis,11
+True,False,Strained right shoulder,11
+True,False,Triceps inflammation,10
+True,False,Arm fatigue,9
+True,False,Biceps inflammation,9
+True,False,Right shoulder soreness,9
+True,False,Lat surgery,8
+True,False,Right biceps tendinitis,8
+True,False,Left shoulder impingement,7
+True,False,Right shoulder discomfort,7
+True,False,Right shoulder fatigue,7
+True,False,Right shoulder injury,7
+True,False,Shoulder tightness,7
+True,False,Strained rotator cuff,7
+True,False,Shoulder surgery (torn labrum),6
+True,False,Thoracic outlet syndrome,6
+True,False,Right rotator cuff strain,5
+True,False,Right triceps strain,5
+True,False,Sprained shoulder,5
+True,False,Triceps tendinitis,5
+True,False,Biceps discomfort,4
+True,False,Left biceps tendinitis,4
+True,False,Left lat strain,4
+True,False,Left shoulder fatigue,4
+True,False,Left shoulder soreness,4
+True,False,Left shoulder tendinitis,4
+True,False,Right rotator cuff inflammation,4
+True,False,Right shoulder bursitis,4
+True,False,Right shoulder tendinitis,4
+True,False,Right shoulder tightness,4
+True,False,Shoulder bursitis,4
+True,False,Strained left shoulder,4
+True,False,Left biceps strain,3
+True,False,Left shoulder tightness,3
+True,False,Right biceps strain,3
+True,False,Shoulder tendinitis (rotator cuff),3
+True,False,Triceps tightness,3
+True,False,Arm discomfort,2
+True,False,Arm median nerve irritation,2
+True,False,Arm surgery,2
+True,False,Biceps tendonitis,2
+True,False,Biceps tightness,2
+True,False,Blood clot in right arm,2
+True,False,Hip surgery (labrum repair),2
+True,False,Hip surgery (torn labrum),2
+True,False,Impingement in his right shoulder,2
+True,False,Left arm fatigue,2
+True,False,Left hip labrum tear,2
+True,False,Left latissimus dorsi strain,2
+True,False,Left posterior shoulder strain,2
+True,False,Left triceps strain,2
+True,False,Mild left shoulder inflammation,2
+True,False,Right Rotator Cuff Inflamattion,2
+True,False,Right arm axillary artery thrombosis,2
+True,False,Right arm fatigue,2
+True,False,Right biceps soreness,2
+True,False,Right latissimus dorsi strain,2
+True,False,Right shoulder tendonitis,2
+True,False,Right triceps inflammation,2
+True,False,Right triceps tightness,2
+True,False,Right upper arm nerve irritation,2
+True,False,Rotator cuff tendinitis,2
+True,False,Shoulder surgery (anterior capsule repair),2
+True,False,Shoulder surgery (capsule tear),2
+True,False,Shoulder surgery (debridement procedure),2
+True,False,Shoulder surgery (torn capsule),2
+True,False,Shoulder surgery (torn labrum/rotator cuff),2
+True,False,Strained right lat,2
+True,False,Strained shoulder (capsular tear),2
+True,False,Thoracic outlet depression surgery,2
+True,False,Torn lat,2
+True,False,right shoulder inflammation,2
+True,False,A/C joint inflammation in right shoulder,1
+True,False,Arm inflammation,1
+True,False,Arm soreness/fatigue,1
+True,False,Arm surgery (blood clot removal),1
+True,False,Arm surgery (nerve-related),1
+True,False,Arthroscopic shoulder surgery (posterior labrum),1
+True,False,Arthroscopic shoulder surgery/Thoracic outlet synd,1
+True,False,Bennett Lesion in right shoulder,1
+True,False,Biceps contusion,1
+True,False,Biceps neuritis,1
+True,False,Biceps soreness,1
+True,False,Biceps tendon inflammation,1
+True,False,Bruised ribs and sprained left shoulder,1
+True,False,Bursitis in his right shoulder,1
+True,False,External left shoulder impingement,1
+True,False,Inflammation in right shoulder,1
+True,False,Lat discomfort,1
+True,False,Lat inflammation,1
+True,False,Lat strain,1
+True,False,Lat tightness,1
+True,False,Left arm brachialis strain,1
+True,False,Left bicep strain,1
+True,False,Left bicep tendinits,1
+True,False,Left biceps bursitis,1
+True,False,Left lat tightness,1
+True,False,Left mid-arm nerve tightness,1
+True,False,Left rotator cuff inflammation,1
+True,False,Left rotator cuff strain,1
+True,False,Left shoulder,1
+True,False,Left shoulder discomfort,1
+True,False,Left shoulder impingement syndrome,1
+True,False,Left shoulder injury,1
+True,False,Left shoulder latissimus strain,1
+True,False,Left shoulder rehabilitation,1
+True,False,Left shoulder rotator cuff inflammation,1
+True,False,Left shoulder rotator cuff tendinitis,1
+True,False,Left shoulder sprain,1
+True,False,Left shoulder tendinits,1
+True,False,Left triceps soreness,1
+True,False,Mild left lat strain,1
+True,False,PRP injection in shoulder (torn rotator cuff),1
+True,False,Partial tear in right lat muscle,1
+True,False,Posterior shoulder discomfort,1
+True,False,RIght shoulder inflammation,1
+True,False,Recovering from July 2015 right shoulder surgery,1
+True,False,Recovering from May 2015 left labrum surgery,1
+True,False,Recovering from May 2015 left shoulder surgery,1
+True,False,Recovering from left shoulder surgery,1
+True,False,Rght shoulder soreness,1
+True,False,Right  triceps strain,1
+True,False,Right Shoulder Strain,1
+True,False,Right Teres Major strain,1
+True,False,Right arm inflammation,1
+True,False,Right arm nerve irritation,1
+True,False,Right bicep strain,1
+True,False,Right bicep tendinitis,1
+True,False,Right biceps inflammation,1
+True,False,Right biceps muscle soreness,1
+True,False,Right biceps tendon inflammation,1
+True,False,Right biceps tendonitis,1
+True,False,Right lat inflammation,1
+True,False,Right lat tightness,1
+True,False,Right latissimus strain,1
+True,False,Right medial biceps tendinitis,1
+True,False,Right rotator cuff impingement,1
+True,False,Right rotator cuff tendinitis,1
+True,False,Right shoulder,1
+True,False,Right shoulder AC joint inflammation,1
+True,False,Right shoulder bicep tendinitis,1
+True,False,Right shoulder biceps surgery,1
+True,False,Right shoulder contusion,1
+True,False,Right shoulder cuff strain,1
+True,False,Right shoulder impingement syndrome,1
+True,False,Right shoulder inflamation,1
+True,False,Right shoulder inflammtion,1
+True,False,Right shoulder lat strain,1
+True,False,Right shoulder rehab,1
+True,False,Right shoulder rotator cuff inflammation and Grade 2 lat strain,1
+True,False,Right shoulder rotator cuff strain,1
+True,False,Right shoulder rotator cuff tendonitis,1
+True,False,Right shoulder stiffness,1
+True,False,"Right shoulder strain, retroactive to 6/7/17",1
+True,False,Right shoulder subluxation,1
+True,False,Right shoulder tendinits,1
+True,False,Right shoulder thoracic outlet surgery,1
+True,False,Right shoulder-latissimus dorsi strain,1
+True,False,Right triceps contusion,1
+True,False,Right triceps muscle strain,1
+True,False,Right triceps soreness,1
+True,False,Right triceps tendinitis,1
+True,False,Right triceps tendonitis,1
+True,False,Right upper back/Teres major muscle strain,1
+True,False,Rotator cuff tendinitis in right shoulder,1
+True,False,September 2016 right shoulder surgery,1
+True,False,Shoulder contusion,1
+True,False,Shoulder discomfort (scapular stress fracture),1
+True,False,Shoulder impingement syndrome,1
+True,False,Shoulder inflammation (SI joint),1
+True,False,Shoulder inflammation (scapula),1
+True,False,Shoulder inflammation (teres major),1
+True,False,Shoulder injury,1
+True,False,Shoulder injury (teres major),1
+True,False,Shoulder nerve inflammation,1
+True,False,Shoulder nerve irritation,1
+True,False,Shoulder sebaceous cyst,1
+True,False,Shoulder siffness,1
+True,False,Shoulder soreness (frayed labrum),1
+True,False,Shoulder surgery (aneurysm),1
+True,False,Shoulder surgery (cyst removal),1
+True,False,Shoulder surgery (glenohumeral ligaments and capsu,1
+True,False,Shoulder surgery (labral debridement),1
+True,False,Shoulder surgery (labral repair),1
+True,False,Shoulder surgery (labrum debridement),1
+True,False,Shoulder surgery (labrum),1
+True,False,Shoulder surgery (labrum/rotator cuff cleanup),1
+True,False,Shoulder surgery (labrum/rotator cuff repair),1
+True,False,Shoulder surgery (nerve decompression),1
+True,False,Shoulder tendinopathy,1
+True,False,Shoulder tendonitis (rotator cuff),1
+True,False,Sore right shoulder,1
+True,False,Soreness in his left triceps,1
+True,False,Sprained shoulder (SC joint),1
+True,False,Stiff right shoulder,1
+True,False,Strained lat/Torn shoulder capsule,1
+True,False,Strained left triceps,1
+True,False,Strained right latissimus dorsi muscle,1
+True,False,Strained shoulder (deltoid),1
+True,False,Strained shoulder (posterior capsule),1
+True,False,Strained shoulder (scapula),1
+True,False,Strained teres major,1
+True,False,Streaa reaction in right arm,1
+True,False,Stress fracture -- shoulder,1
+True,False,Stress injury to scapula bone in right shoulder,1
+True,False,Stress reaction -- arm,1
+True,False,Stress reaction -- shoulder,1
+True,False,Symptoms of thoracic outlet syndrome,1
+True,False,Thoracic Outlet Syndrome surgery,1
+True,False,Thoracic outlet decompression surgery,1
+True,False,Thoracic outlet syndrome surgery (follow-up proced,1
+True,False,Torn lat tendon,1
+True,False,Triceps discomfort,1
+True,False,Triceps soreness,1
+True,False,Vascular surgery (upper arm aneurysm),1
+True,False,inflammation in left shoulder,1
+True,False,strained right latissimus dorsi muscle,1
+False,False,Strained oblique,123
+False,False,Strained hamstring,104
+False,False,Strained groin,82
+False,False,Undisclosed,63
+False,False,Strained lower back,52
+False,False,,45
+False,False,Strained calf,38
+False,False,Knee inflammation,33
+False,False,Left oblique strain,31
+False,False,Sprained ankle,24
+False,False,Lower back strain,19
+False,False,Hip impingement,18
+False,False,Hip inflammation,18
+False,False,Left hamstring strain,18
+False,False,Right hamstring strain,18
+False,False,Sprained knee,18
+False,False,Hip surgery,17
+False,False,Lower back inflammation,17
+False,False,Lower back tightness,16
+False,False,Strained back,16
+False,False,Strained neck,16
+False,False,Back spasms,15
+False,False,Lower back discomfort,15
+False,False,Strained pectoral,15
+False,False,Lower back spasms,14
+False,False,Right groin strain,14
+False,False,Right knee inflammation,14
+False,False,Back tightness,13
+False,False,Left groin strain,13
+False,False,Right oblique strain,11
+False,False,Concussion,10
+False,False,Illness,10
+False,False,Left knee inflammation,10
+False,False,Back discomfort,9
+False,False,Blister (right middle finger),9
+False,False,Knee tendinitis,9
+False,False,Low back strain,9
+False,False,Neck discomfort,9
+False,False,Right calf strain,9
+False,False,Strained left oblique,9
+False,False,Blister on finger (right middle),8
+False,False,Strained left hamstring,8
+False,False,Strained quad,8
+False,False,Hip discomfort,7
+False,False,Mid-back strain,7
+False,False,Neck tightness,7
+False,False,Right middle finger blister,7
+False,False,Strained hip,7
+False,False,Arthroscopic knee surgery,6
+False,False,Knee contusion,6
+False,False,Knee discomfort,6
+False,False,Knee surgery,6
+False,False,Left ankle sprain,6
+False,False,Left intercostal strain,6
+False,False,Viral illness,6
+False,False,Viral infection,6
+False,False,Ankle inflammation,5
+False,False,Back strain,5
+False,False,Back surgery,5
+False,False,Blister on left middle finger,5
+False,False,Finger inflammation (right middle),5
+False,False,Hand contusion,5
+False,False,Left knee sprain,5
+False,False,Lumbar strain,5
+False,False,Neck inflammation,5
+False,False,Strained right oblique,5
+False,False,Upper back strain,5
+False,False,Ankle contusion,4
+False,False,Appendicitis,4
+False,False,Blister (middle finger),4
+False,False,Blister on finger (left index),4
+False,False,Foot contusion,4
+False,False,Fractured hand (left),4
+False,False,Left knee tendinitis,4
+False,False,Left middle finger blister,4
+False,False,Lower back stiffness,4
+False,False,Strained abdominal,4
+False,False,Strained back (lumbar),4
+False,False,Strained finger (right middle),4
+False,False,Strained glute,4
+False,False,Strained right groin,4
+False,False,Wrist inflammation,4
+False,False,Wrist surgery,4
+False,False,Ankle discomfort,3
+False,False,Ankle impingement,3
+False,False,Anxiety,3
+False,False,Back injury,3
+False,False,Back surgery (herniated disc),3
+False,False,Blister,3
+False,False,Foot discomfort,3
+False,False,Fractured rib,3
+False,False,Hip tightness,3
+False,False,Irregular heartbeat,3
+False,False,Knee bursitis,3
+False,False,Knee surgery (torn ACL),3
+False,False,Knee surgery (torn meniscus),3
+False,False,Left foot contusion,3
+False,False,Left hamstring tightness,3
+False,False,Left hip inflammation,3
+False,False,Lower leg tightness,3
+False,False,Mid-back tightness,3
+False,False,Neck spasms,3
+False,False,Neck stiffness,3
+False,False,Neck strain,3
+False,False,Plantar fascitis,3
+False,False,Right hip strain,3
+False,False,Right index finger blister,3
+False,False,Right intercostal strain,3
+False,False,Right knee strain,3
+False,False,Right knee tendinitis,3
+False,False,Right pectoral strain,3
+False,False,Side tightness,3
+False,False,Strained back (trapezius),3
+False,False,Strained finger,3
+False,False,Strained knee,3
+False,False,Strained left groin,3
+False,False,Strained left hip,3
+False,False,Strained lumbar,3
+False,False,Strained right hamstring,3
+False,False,Strained wrist,3
+False,False,TBD,3
+False,False,Thumb inflammation,3
+False,False,Abdominal strain,2
+False,False,Achilles' tendon surgery (exploratory),2
+False,False,Ankle tendinitis,2
+False,False,Back soreness,2
+False,False,Blister (index finger),2
+False,False,Blister (left index finger),2
+False,False,Blister (right index finger),2
+False,False,Blister on finger,2
+False,False,Blister on finger (right index),2
+False,False,Blister on right middle finger,2
+False,False,Blisters,2
+False,False,Broken right hand,2
+False,False,Bruised right index finger,2
+False,False,Calf contusion,2
+False,False,Cervical nerve impingement,2
+False,False,Finger discomfort (right middle),2
+False,False,Finger inflammation (right index),2
+False,False,Finger laceration,2
+False,False,Finger numbness,2
+False,False,Flu-like symptoms,2
+False,False,Fractured ankle,2
+False,False,Fractured finger (left ring),2
+False,False,Fractured foot,2
+False,False,Fractured hand (right),2
+False,False,Gastroenteritis,2
+False,False,Groin inflammation,2
+False,False,Hamstring strain,2
+False,False,Hamstring tendinitis,2
+False,False,Influenza,2
+False,False,Kidney stones,2
+False,False,Left SC joint inflammation,2
+False,False,Left abdominal strain,2
+False,False,Left adductor strain,2
+False,False,Left foot navicular stress fracture,2
+False,False,Left hip impingement,2
+False,False,Left index finger blister,2
+False,False,Left knee strain,2
+False,False,Left meniscus tear,2
+False,False,Left third-finger tendonitis,2
+False,False,Lower back spasm,2
+False,False,Lumbar spine strain,2
+False,False,Mononucleosis,2
+False,False,Neck spasm,2
+False,False,Oblique strain,2
+False,False,Patellar tendinitis,2
+False,False,RIght MCL sprain,2
+False,False,Right fibula fracture,2
+False,False,Right hand contusion,2
+False,False,Right hip impingement,2
+False,False,Right index finger contustion,2
+False,False,Right index finger infection,2
+False,False,Right knee injury,2
+False,False,Right knee patellar tendinitis,2
+False,False,Right knee soreness,2
+False,False,Right knee stress reaction,2
+False,False,Right knee tendonitis,2
+False,False,Right neck strain,2
+False,False,Right side discomfort,2
+False,False,Right thumb blister,2
+False,False,Right wrist sprain,2
+False,False,Ruptured Achilles' tendon,2
+False,False,Side discomfort,2
+False,False,Skull fracture,2
+False,False,Sprained finger (left middle),2
+False,False,Sprained foot,2
+False,False,Sprained toe,2
+False,False,Sprained wrist,2
+False,False,Strained finger (left index),2
+False,False,Strained right calf,2
+False,False,Strained upper back,2
+False,False,Stress reaction in neck,2
+False,False,Thoracic spine inflammation,2
+False,False,Toe inflammation,2
+False,False,Torn knee ligament,2
+False,False,AC joint inflammation,1
+False,False,Abdomen infection,1
+False,False,Abdomen strain,1
+False,False,Abdominal discomfort,1
+False,False,Abdominal surgery,1
+False,False,Ablation procedure (back),1
+False,False,Abscess removal procedure (thigh),1
+False,False,Achilles tendinitis,1
+False,False,Achilles' tendon surgery,1
+False,False,Allergic reaction,1
+False,False,Ankle surgery,1
+False,False,Appendectomy,1
+False,False,Arthroscopic ankle surgery,1
+False,False,Arthroscopic knee surgery (meniscus repair),1
+False,False,Atrial fibrillation surgery,1
+False,False,Back contusion,1
+False,False,Back inflammation (lumbar disc),1
+False,False,Back inflammation (lumbar spine),1
+False,False,Back inflammation (thoracic spine),1
+False,False,Back surgery (discectomy),1
+False,False,Back surgery (lumbar discectomy),1
+False,False,Back surgery (lumbar microdiscectomy),1
+False,False,Bacterial infection,1
+False,False,Blister (finger),1
+False,False,Blister -- finger (right index),1
+False,False,Blister infection on right heel,1
+False,False,Blister on finger (left),1
+False,False,Blister on foot,1
+False,False,Blister on hand,1
+False,False,Blister on his right middle finger,1
+False,False,Blister on right index finger,1
+False,False,Blister on right third finger,1
+False,False,Blister on toe,1
+False,False,Blisters (left hand),1
+False,False,Blisters (right hand),1
+False,False,Blisters on right middle and index fingers,1
+False,False,Blisters on right middle finger,1
+False,False,Blood clot,1
+False,False,Bone bruise on left foot,1
+False,False,Bone graft surgery (rib),1
+False,False,Bone spur in foot,1
+False,False,Brain aneurysm,1
+False,False,Bruised lung,1
+False,False,Bruised ribs,1
+False,False,Calf inflammation,1
+False,False,Calf strain,1
+False,False,Calf tenosynovitis,1
+False,False,Calf tightness,1
+False,False,Carpal tunnel syndrome-like symptoms,1
+False,False,Cervical muscle strain,1
+False,False,Cervical nerve injury,1
+False,False,Cervical radiculopathy,1
+False,False,Cervical spasm,1
+False,False,Cervical spine sprain,1
+False,False,Cervical strain,1
+False,False,Chest contusion,1
+False,False,Chest inflammation,1
+False,False,Chest strain,1
+False,False,Colitis,1
+False,False,Collarbone injury,1
+False,False,Colon surgery,1
+False,False,Cracked fingernail,1
+False,False,Cracked fingernail/blister,1
+False,False,Cracked nail (middle finger),1
+False,False,Face surgery (OZMC fracture),1
+False,False,Facial fractures,1
+False,False,Facial surgery,1
+False,False,Finger blister,1
+False,False,Finger contusion,1
+False,False,Finger contusion (middle),1
+False,False,Finger contusion (right middle),1
+False,False,Finger discomfort,1
+False,False,Finger inflammation,1
+False,False,Finger inflammation (right ring),1
+False,False,Finger laceration (right index),1
+False,False,Finger laceration (right middle),1
+False,False,Finger surgery (left ring),1
+False,False,Fingernail avulsion (right middle),1
+False,False,Foot infection,1
+False,False,Foot metatarsalgia,1
+False,False,Foot nerve irritation,1
+False,False,Foot surgery,1
+False,False,Fracture and laceration of right thumb,1
+False,False,Fractured fifth metacarpal,1
+False,False,Fractured finger,1
+False,False,Fractured finger (right middle),1
+False,False,Fractured foot (fifth metatarsal),1
+False,False,Fractured foot (non-displaced),1
+False,False,Fractured hand (non-throwing),1
+False,False,Fractured hand (right pinkie),1
+False,False,Fractured leg (fibula),1
+False,False,Fractured nail (right hand),1
+False,False,Fractured nose,1
+False,False,Fractured ribcage,1
+False,False,Fractured right big toe,1
+False,False,Fractured right thumb,1
+False,False,Fractured right toe,1
+False,False,Fractured third finger on his right hand,1
+False,False,Fractured thumb (right),1
+False,False,Fractured toe,1
+False,False,Fractured wrist (right),1
+False,False,Glute soreness,1
+False,False,Gout in left ankle,1
+False,False,Groin discomfort,1
+False,False,Groin injury,1
+False,False,Groin strain,1
+False,False,Hamstring surgery,1
+False,False,Hamstring tendonitis,1
+False,False,Hand inflammation,1
+False,False,Hand soreness,1
+False,False,Hand surgery (non-throwing),1
+False,False,"Hand, foot and mouth disease",1
+False,False,"Hand, foot, and mouth disease",1
+False,False,High left ankle sprain,1
+False,False,Hip contusion,1
+False,False,Hip stress reaction,1
+False,False,Hip surgery (labral tear),1
+False,False,Hodgkin's Lymphoma,1
+False,False,Intercostal irritation,1
+False,False,Intercostal nerve irritation,1
+False,False,Knee effusion,1
+False,False,Knee hyperextension,1
+False,False,Knee infection,1
+False,False,Knee inflammation (bone bruise),1
+False,False,Knee soreness,1
+False,False,Knee surgeries,1
+False,False,Knee surgery (ACL),1
+False,False,Knee surgery (cartilage repair),1
+False,False,Knee surgery (cyst removal),1
+False,False,Knee surgery (debridement),1
+False,False,Knee surgery (loose bodies),1
+False,False,Knee surgery (menisectomy),1
+False,False,Knee surgery (partially torn patellar tendon),1
+False,False,Knee surgery (patellar tendon),1
+False,False,Knee surgery (ruptured patella tendon),1
+False,False,Knee surgery (torn patellar tendon),1
+False,False,Knee surgery (torn tendon),1
+False,False,Knee tendinitis (patellar),1
+False,False,Kneecap subluxation,1
+False,False,Lacerated left index finger,1
+False,False,Left Achilles tendon surgery,1
+False,False,Left Lisfranc tear,1
+False,False,Left a/c joint inflammation,1
+False,False,Left abdomen strain,1
+False,False,Left abdominal discomfort,1
+False,False,Left achilles tendinitis,1
+False,False,Left adductor contusion,1
+False,False,Left adductor tendonitis,1
+False,False,Left ankle contusion,1
+False,False,Left big toe inflamation,1
+False,False,Left calf strain,1
+False,False,Left foot fracture,1
+False,False,Left gluteus strain,1
+False,False,Left great toe tear,1
+False,False,Left hamstring,1
+False,False,"Left hamstring strain,",1
+False,False,Left hand Carpal Tunnel syndrome,1
+False,False,Left hip contusion,1
+False,False,Left hip inflamation,1
+False,False,Left hip tightness,1
+False,False,Left index finger bone bruise,1
+False,False,Left index finger contusion,1
+False,False,Left intercostal muscle strain,1
+False,False,Left knee chondral defect,1
+False,False,Left knee contusion,1
+False,False,Left knee injury,1
+False,False,Left knee medial meniscus tear,1
+False,False,Left knee patellar tendinitis,1
+False,False,Left knee surgery,1
+False,False,Left lumbar strain,1
+False,False,Left middle finger,1
+False,False,Left middle finger inflammation,1
+False,False,Left neck strain,1
+False,False,Left neck tightness,1
+False,False,Left oblique injury,1
+False,False,Left plantar fascia strain,1
+False,False,Left plantar fascitis,1
+False,False,Left quad strain,1
+False,False,Left quadriceps discomfort,1
+False,False,Left quadriceps strain,1
+False,False,Left rhomboid strain,1
+False,False,Left rib strain,1
+False,False,Left shin contusion,1
+False,False,Left should strain,1
+False,False,Left side discomfort,1
+False,False,Left third digit inflammation,1
+False,False,Left thoracic rib cage soreness,1
+False,False,Left throracic strain,1
+False,False,Left thumb sprain,1
+False,False,Left wrist TFCC cyst,1
+False,False,Left wrist contusion,1
+False,False,Left wrist fracture,1
+False,False,Left wrist inflamation,1
+False,False,Left wrist inflammation,1
+False,False,Left wrist strain,1
+False,False,Leg contusion,1
+False,False,Leg contusion (tibia),1
+False,False,Leg discomfort,1
+False,False,Leg infection,1
+False,False,Leg stress fracture (fibular head),1
+False,False,Low back spasms,1
+False,False,Low back tightness,1
+False,False,Lower back disc herniation,1
+False,False,Lower back soreness,1
+False,False,Lower back sprain,1
+False,False,Lower back surgery,1
+False,False,Lumbar disc herniation,1
+False,False,Lumbar spine inflammation,1
+False,False,Lumbar spine spasm,1
+False,False,Lumbar spine stress reaction,1
+False,False,Lumbar stress reaction,1
+False,False,Mental health,1
+False,False,Microdiscectomy (back surgery),1
+False,False,Mid back strain,1
+False,False,Mid-back inflammation,1
+False,False,Mild disc herniation,1
+False,False,Mild oblique strain,1
+False,False,Mild rhomboid strain,1
+False,False,Mild strains of left and right hamstrings,1
+False,False,Nasal fracture,1
+False,False,Nasal fracture surgery,1
+False,False,Neck soreness,1
+False,False,Neck spams,1
+False,False,Neck surgery (disc replacement),1
+False,False,Nerve irritation,1
+False,False,Nerve irritation in hand,1
+False,False,Nerve irritation in right hand,1
+False,False,Nerve-related issue,1
+False,False,Non-Hodgkin's Lymphoma,1
+False,False,Non-baseball medical condition,1
+False,False,Non-baseball related injury,1
+False,False,Non-baseball related medical matter,1
+False,False,"Non-baseball, medical condition",1
+False,False,Non-displaced fracture of hamate in right hand,1
+False,False,Non-displaced jaw fracture,1
+False,False,Non-displaced thumb fracture (right),1
+False,False,Non-viral illness,1
+False,False,Oblique soreness,1
+False,False,Parainfluenza virus,1
+False,False,Partial tear of left Achilles tendon,1
+False,False,Patellar tendinitis (left knee),1
+False,False,Patellar tendinopathy in both knees,1
+False,False,Patellar tendonitis,1
+False,False,Pectoral inflammation,1
+False,False,Pectoral strain,1
+False,False,Pelvic inflammation,1
+False,False,Pinched nerve in neck,1
+False,False,Plantar fasciitis in right foot,1
+False,False,Quadriceps surgery (ruptured tendon),1
+False,False,Radial nerve discomfort,1
+False,False,Radial nerve inflammation,1
+False,False,Radial nerve irritation,1
+False,False,Raynaud’s syndrome surgery,1
+False,False,Recovering from Achilles surgery,1
+False,False,Recovering from December 2015 back surgery,1
+False,False,Recovering from February 2016 rib surgery,1
+False,False,Recovering from March 2016 groin surgery,1
+False,False,Recovery from cartilage restoration procedure,1
+False,False,Recovery from right hip surgery,1
+False,False,Recovery right knee patellofemoral ligament reconstruction surgery,1
+False,False,Rehab from cardiac surgery,1
+False,False,Reoccurring symptoms related to original injury to third finger MCP joint on right hand,1
+False,False,Rib cartelige inflammation,1
+False,False,Rib costochondritis,1
+False,False,Rib fractures,1
+False,False,Rib stress fracture,1
+False,False,Ribcage injury,1
+False,False,Ribs stress reaction,1
+False,False,Right AC joint inflammation,1
+False,False,Right Achilles surgery,1
+False,False,Right Achilles tendon bursitis,1
+False,False,Right Pectoral Strain,1
+False,False,Right adducter strain,1
+False,False,Right ankle contusion,1
+False,False,Right ankle sprain,1
+False,False,Right ankle tendonitis,1
+False,False,Right back strain,1
+False,False,Right calf soreness,1
+False,False,Right cervical spasm,1
+False,False,Right extensor strain,1
+False,False,Right fibula stress fracture,1
+False,False,Right fifth toe fracture,1
+False,False,Right finger sprain,1
+False,False,Right first toe inflammation,1
+False,False,Right foot inflammation,1
+False,False,Right foot plantar fascitis,1
+False,False,Right foot surgery,1
+False,False,Right foot tendinitis,1
+False,False,Right great toe contusion,1
+False,False,Right great toe fracture,1
+False,False,Right hamstring tightness,1
+False,False,Right hand surgery,1
+False,False,Right hand tendinitis,1
+False,False,Right heel infection,1
+False,False,Right hip discomfort,1
+False,False,Right hip inflammation,1
+False,False,Right hip injury,1
+False,False,Right hip soreness,1
+False,False,Right hip stiffness,1
+False,False,Right index finger strain,1
+False,False,Right intercostal muscle strain,1
+False,False,Right knee,1
+False,False,Right knee arthroscopic surgery,1
+False,False,Right knee chondromalacia,1
+False,False,Right knee effusion,1
+False,False,Right knee inflamation,1
+False,False,Right knee patella tendonitis,1
+False,False,Right knee subluxation,1
+False,False,Right lower back spasm,1
+False,False,Right lower back strain,1
+False,False,Right lower leg contusion,1
+False,False,Right lower leg strain,1
+False,False,"Right mid-thoracic strain,",1
+False,False,Right middle finger blister/laceration,1
+False,False,Right middle finger contusion,1
+False,False,Right middle finger inflammation,1
+False,False,Right middle finger injury,1
+False,False,Right middle finger laceration,1
+False,False,Right oblique impingement,1
+False,False,Right oblique soreness,1
+False,False,Right patella tendon strain,1
+False,False,Right pectoral inflammation,1
+False,False,Right pectoral soreness,1
+False,False,Right pectoralis strain,1
+False,False,Right quadriceps strain,1
+False,False,Right rhomboid strain,1
+False,False,Right rib fracture,1
+False,False,Right rib microfracture,1
+False,False,Right ring finger sprain,1
+False,False,Right shin contusion,1
+False,False,Right shin stress reaction,1
+False,False,Right side inflammation,1
+False,False,Right side strain,1
+False,False,Right thigh contusion/right groin strain,1
+False,False,Right third finger,1
+False,False,Right third finger blister,1
+False,False,Right thumb contusion,1
+False,False,Right thumb inflammation,1
+False,False,Right trapezius strain,1
+False,False,Right ulna fracture,1
+False,False,Right upper trapezius strain,1
+False,False,Right wrist contusion,1
+False,False,Right wrist tendonitis,1
+False,False,Ruptured finger pulley,1
+False,False,Ruptured quad,1
+False,False,SC joint injury,1
+False,False,SI joint inflammation (hip),1
+False,False,Severe left oblique strain,1
+False,False,Shin contusion,1
+False,False,Shin inflammation,1
+False,False,Shin splints,1
+False,False,Shin surgery (stress reaction),1
+False,False,Shingles,1
+False,False,Shoulder dislocation (non-throwing),1
+False,False,Shoulder subluxation (non-throwing),1
+False,False,Sore left oblique,1
+False,False,Split nail,1
+False,False,Sports hernia surgery,1
+False,False,Sprained Right Index Finger,1
+False,False,Sprained finger (left ring),1
+False,False,Sprained finger (middle),1
+False,False,Sprained finger (right index),1
+False,False,Sprained finger (right middle),1
+False,False,Sprained knee (torn MCL),1
+False,False,Sprained left knee,1
+False,False,Sprained left thumb,1
+False,False,Sprained left toe,1
+False,False,Sprained left wrist,1
+False,False,Sprained ribcage,1
+False,False,Sprained right finger,1
+False,False,Sprained right foot,1
+False,False,Sprained right knee,1
+False,False,Sprained thumb,1
+False,False,Stable lumbar vertebral fracture,1
+False,False,Strained ankle,1
+False,False,Strained back (rhomboid),1
+False,False,Strained cervical spine,1
+False,False,Strained gluteal,1
+False,False,Strained gracilis,1
+False,False,Strained intercostal,1
+False,False,Strained knee (patella tendon),1
+False,False,Strained left oblique muscle,1
+False,False,Strained left pectoral muscle,1
+False,False,Strained left quadricep,1
+False,False,Strained ligament in right index finger,1
+False,False,Strained lower back/ Rib stress fracture,1
+False,False,Strained lower leg,1
+False,False,Strained peroneal,1
+False,False,Strained rib cage,1
+False,False,Strained right Achilles,1
+False,False,Strained right achilles,1
+False,False,"Strained right calf, retroactive to 6/20",1
+False,False,Strained right hand,1
+False,False,Strained right knee,1
+False,False,Strained right trapezius,1
+False,False,Strained upper back (rhomboid),1
+False,False,Stress fracture -- rib cage,1
+False,False,Stress fracture in lower back,1
+False,False,"Stress fracture, lower back",1
+False,False,Stress fractures in back,1
+False,False,Stress reaction (toe),1
+False,False,Stress reaction -- lower back,1
+False,False,Stress reaction -- ribs,1
+False,False,Stress reaction -- shin,1
+False,False,Stress reaction in foot,1
+False,False,Stress reaction in foot (fifth metatarsal),1
+False,False,Stress reaction in leg,1
+False,False,Stress reaction in rib,1
+False,False,Stress reaction to tibia,1
+False,False,Surgery (non-baseball related),1
+False,False,Thigh inflammation,1
+False,False,Thoracic inflammation,1
+False,False,Thoracic muscle spasm,1
+False,False,Thoracic outet syndrome surgery,1
+False,False,Thoracic spine tightness,1
+False,False,Thumb abrasion (right),1
+False,False,Thumb contusion,1
+False,False,Thumb surgery (torn ligament),1
+False,False,Thumb weakness (left),1
+False,False,Tibial stress reaction,1
+False,False,Toe sesamoiditis,1
+False,False,Toe surgery / Knee surgery,1
+False,False,Tooth infection,1
+False,False,Torn ACL,1
+False,False,Torn ACL in left knee,1
+False,False,Torn ACL in right knee,1
+False,False,Torn finger tendon (right middle),1
+False,False,Torn fingernail,1
+False,False,Torn knee ligament (ACL),1
+False,False,Torn lateral meniscus in right knee,1
+False,False,Torn left knee cartilage,1
+False,False,Torn left patella tendon,1
+False,False,Torn meniscus,1
+False,False,Torn meniscus in right knee,1
+False,False,Torn patellar tendon (right knee),1
+False,False,Turf toe,1
+False,False,Turf toe on right big toe,1
+False,False,Ulcerative colitis,1
+False,False,Upper respiratory infection,1
+False,False,Upper thoracic back pain and discomfort,1
+False,False,Wisdom tooth extraction,1
+False,False,Wrist contusion,1
+False,False,Wrist surgery (fracture),1
+False,False,Wrist tendinitis,1
+False,False,back strain,1
+False,False,facial fractures,1
+False,False,hamstring strain,1
+False,False,left ankle sprain,1
+False,False,left calf strain,1
+False,False,left oblique strain,1
+False,False,lower back spasms,1
+False,False,rehab from right core muscle surgery,1
+False,False,right-hip impingement,1
+False,False,strained neck,1
+False,False,testicular cancer,1

@@ -1,0 +1,13 @@
+group,Difference (post-return minus pre-injury),Subsequent arm IL: mean (SD),median,No subsequent arm IL: mean (SD),median ,Wilcoxon rank-sum p
+Starters,"Fastball velocity difference, mph",-0.234 (1.180),-0.297,-0.069 (0.940),-0.079,0.5389
+Starters,  mph lost,0.622 (0.781),0.297,0.401 (0.542),0.079,0.1967
+Starters,  mph gained,0.388 (0.538),0.000,0.333 (0.567),0.000,0.6581
+Starters,"Within-game CV difference, % points",0.022 (0.207),-0.038,-0.006 (0.217),-0.004,0.7738
+Relievers,"Fastball velocity difference, mph",-0.136 (0.738),-0.125,-0.274 (0.896),-0.273,0.446
+Relievers,  mph lost,0.336 (0.443),0.125,0.513 (0.608),0.273,0.3438
+Relievers,  mph gained,0.200 (0.458),0.000,0.239 (0.431),0.000,0.4457
+Relievers,"Within-game CV difference, % points",0.021 (0.166),-0.003,-0.016 (0.128),-0.012,0.4283
+All,"Fastball velocity difference, mph",-0.191 (1.006),-0.173,-0.165 (0.924),-0.139,0.9929
+All,  mph lost,0.496 (0.667),0.173,0.454 (0.576),0.139,0.718
+All,  mph gained,0.305 (0.510),0.000,0.289 (0.509),0.000,0.9115
+All,"Within-game CV difference, % points",0.021 (0.189),-0.016,-0.010 (0.181),-0.009,0.5214
